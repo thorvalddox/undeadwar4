@@ -1,0 +1,11 @@
+{
+  "necromancer":"It can cast spells and raise undead",
+  "vampire":"If it kills a living creature, that creature automaticly becomes a vampire",
+  "moonbane":"It heals the total amount of damage it afflicts on a creature",
+  "zombie":"+3 raw damage",
+  "jianshi":"fully heal on kill",
+  "ghoul":"immume to spells",
+  "quell":"necromancers cannot cast spells when within 3 tiles of this creature",
+  "skeleton":"Hits count as miss",
+  "headless":"Head hit counts as miss"
+}
